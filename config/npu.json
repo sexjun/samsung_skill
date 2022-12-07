@@ -1,0 +1,20 @@
+{
+  "npu": [
+    {
+      "layer_name": "a",
+      "condition": {
+        "support_list": ["add", "min"]
+      }
+    }, {
+      "layer_name": "b",
+      "condition": {
+        "support_list": ["add"]
+      }
+    },
+    {
+      "layer_name": "c",
+      "condition": {
+      }
+    }
+  ]
+}

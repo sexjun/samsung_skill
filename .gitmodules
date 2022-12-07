@@ -1,0 +1,6 @@
+[submodule "thirty_part/json"]
+	path = thirty_part/json
+	url = https://github.com/nlohmann/json.git
+[submodule "thirty_part/glog"]
+	path = thirty_part/glog
+	url = https://github.com/google/glog.git
